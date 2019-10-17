@@ -1,6 +1,6 @@
 # Getting Started with the Microsoft Graph
 
-*The modules originally in this folder have been rewritten & relocated to their own repositories under the [Microsoft Graph organization in Github](https://github.com/microsoftgraph). Please refer to those additional modules in addition to the ones found above:*
+*More training materials can be found in [Microsoft Graph organization in Github](https://github.com/microsoftgraph). Please refer to those additional modules in addition to the ones found above:*
 
 - [Building Microsoft Graph Applications](https://github.com/microsoftgraph/msgraph-training-building-apps)
 
