@@ -22,5 +22,8 @@ https://docs.microsoft.com/en-us/sharepoint/dev/training/training
 
 https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-web-part-as-ms-teams-tab
 
+PnP SPFx Samples Gallery
+
+https://sharepoint.github.io/sp-dev-fx-webparts/samples/framework/
 
 
