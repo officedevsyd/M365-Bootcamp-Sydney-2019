@@ -8,7 +8,7 @@ List of Hands on labs for SYD M365 bootcamp
 
 - [SharePoint] https://github.com/officedevsyd/M365-Bootcamp-Sydney-2019/blob/master/SharePoint.md
 
-# M365-Saturday
+# M365-Saturday-Sydney
 October 26 (next Saturday)
 
 - [Take ticket] https://www.eventbrite.com/e/m365-saturday-sydney-tickets-76724694627
